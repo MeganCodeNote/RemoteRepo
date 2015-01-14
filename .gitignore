@@ -1,0 +1,15 @@
+# An example of content of .gitignore
+*.txt
+!useful.txt
+.DS_Store
+*.zip
+*.gz
+*.pyc
+*.class
+resources/video/
+!resources/video/*.mp4
+log/*.log
+log/*.log.[0-9]
+
+# Question: would log/archive/access.log be ignored?
+# Answer: No, "*" in "log/*.log" only apply to files.
