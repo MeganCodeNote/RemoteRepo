@@ -1,2 +1,2 @@
 # RemoteRepo
-This is a repo for testing and learn more of Git/Github features
+This is a repo for testing and learning more of Git/Github features
